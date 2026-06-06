@@ -1,3 +1,7 @@
+#Live Demo fro streamlit
+https://loanapprovalprediction-nnmjmhvui2cbcu6okohu59.streamlit.app/
+
+
 This project predicts whether a loan application is likely to be approved based on applicant information using Machine Learning.
 
 ## Features
